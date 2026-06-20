@@ -24,7 +24,6 @@ int main()
             total_vokal++;
         }
     }
-
     // 3. TEKAN TOMBOL STOP (Catat waktu selesai tepat setelah loop)
     auto stop = chrono::high_resolution_clock::now();
 
