@@ -1,0 +1,3 @@
+-udah paham for
+-udah paham scope function rekursi
+-lanjut pendalaman
